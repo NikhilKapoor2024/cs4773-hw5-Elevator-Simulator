@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * File: ElevatorSimulator.java
  * Type: Class
- * Purpose: Main driver class for cs4773-hw5
+ * Purpose: Main driver class for XXXX
  */
 public class ElevatorSimulator 
 {
